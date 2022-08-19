@@ -1,0 +1,16 @@
+{
+  "name": "contact.app.project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}
